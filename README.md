@@ -36,7 +36,6 @@ The game speed is increased by * 1.1 each level increase.
 Apart from being worth different values based on difficutly alien values progressivly increase per level. ALIEN SCORE SCALING is BY * 1.2
 
 
-
 What all the aliens in the screen are worth per level, per difficulty.
 
  Level   Easy    Medium    Hard 
@@ -75,3 +74,19 @@ Level   Easy       Medium     Hard
 13      21823.42   43646.85   65470.27
 14      26638.11   53276.23   79914.34
 15      32415.74   64831.49   97347.23
+
+
+
+
+
+
+
+
+![Menu Screen].(https://github.com/abrahamgarc/alien-invasion-game/blob/main/screenshots/screen_shot1.png)
+
+
+![Leaderboard Screen].(https://github.com/abrahamgarc/alien-invasion-game/blob/main/screenshots/screen_shot2.png)
+
+
+![Game Screen].(https://github.com/abrahamgarc/alien-invasion-game/blob/main/screenshots/screen_shot3.png)
+
