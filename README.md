@@ -86,8 +86,8 @@ Level   Easy       Medium     Hard
 
 
 
-![Leaderboard Screen](https://github.com/abrahamgarc/alien-invasion-game/blob/main/screenshots/screen_shot2.png)
+![Leaderboard Screen](https://raw.githubusercontent.com/abrahamgarc/alien-invasion-game/main/screenshots/screen_shot2.png)
 
 
-![Game Screen](https://github.com/abrahamgarc/alien-invasion-game/blob/main/screenshots/screen_shot3.png)
+![Game Screen](https://raw.githubusercontent.com/abrahamgarc/alien-invasion-game/main/screenshots/screen_shot3.png)
 
